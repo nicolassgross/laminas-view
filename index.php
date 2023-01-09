@@ -1,5 +1,7 @@
 <?php
 
+include_once "vendor/autoload.php";
+
 use Laminas\View\Renderer\PhpRenderer;
 use Laminas\View\Resolver\TemplateMapResolver;
 
